@@ -1,0 +1,22 @@
+{
+  "name": "ZGLib",
+  "version": "0.1.0",
+  "summary": "A short description of ZGLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Gavin123/ZGLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Gavin123": "457076781@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Gavin123/ZGLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZGLib/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - ZGLib (0.1.0)
+
+DEPENDENCIES:
+  - ZGLib (from `../`)
+
+EXTERNAL SOURCES:
+  ZGLib:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ZGLib: 6379702a9a0f7cbfa3d3e4a966cf6bcf19bff51e
+
+PODFILE CHECKSUM: 863e65e4ea970561c59855c43b933110bdb870a2
+
+COCOAPODS: 1.2.0

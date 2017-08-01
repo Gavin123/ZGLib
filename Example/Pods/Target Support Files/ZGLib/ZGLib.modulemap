@@ -1,0 +1,6 @@
+framework module ZGLib {
+  umbrella header "ZGLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
