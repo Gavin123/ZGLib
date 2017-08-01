@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZGLib_Example' do
+  pod 'ZGLib', :path => '../'
+
+  target 'ZGLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
